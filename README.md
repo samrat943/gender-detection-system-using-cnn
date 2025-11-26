@@ -14,9 +14,7 @@ This project uses a **Convolutional Neural Network (CNN)** and **OpenCV/cvlib** 
 6. [Dataset Structure](#dataset-structure)  
 7. [Model Training](#model-training)  
 8. [Real-Time Detection](#real-time-detection)  
-9. [Training Results](#training-results)  
-10. [Troubleshooting](#troubleshooting)  
-11. [License](#license)
+9. [Training Results](#training-results)
 
 ---
 
